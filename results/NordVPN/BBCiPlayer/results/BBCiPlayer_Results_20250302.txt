@@ -1,0 +1,973 @@
+Server	Ergebnis
+uk1784	Available
+uk765	Available
+uk812	Available
+uk813	Available
+uk814	Available
+uk871	Available
+uk873	Available
+uk875	Available
+uk877	Available
+uk879	Available
+uk884	Available
+uk886	Skipped (VPN connection failed)
+uk1806	Skipped (VPN connection failed)
+uk888	Skipped (VPN connection failed)
+uk890	Skipped (VPN connection failed)
+uk892	Skipped (VPN connection failed)
+uk894	Skipped (VPN connection failed)
+uk896	Skipped (VPN connection failed)
+uk898	Available
+uk1785	Available
+uk1789	Available
+uk1790	Available
+uk1791	Available
+uk1792	Available
+uk1807	Available
+uk1808	Available
+uk1809	Available
+uk1810	Available
+uk1811	Skipped (VPN connection failed)
+uk1812	Skipped (VPN connection failed)
+uk1813	Skipped (VPN connection failed)
+uk1814	Skipped (VPN connection failed)
+uk1815	Skipped (VPN connection failed)
+uk1816	Skipped (VPN connection failed)
+uk1821	Skipped (VPN connection failed)
+uk1822	Available
+uk1823	Available
+uk1824	Skipped (VPN connection failed)
+uk1825	Available
+uk1826	Available
+uk1827	Available
+uk1828	Available
+uk1829	Available
+uk1830	Available
+uk1835	Available
+uk1836	Available
+uk1837	Skipped (VPN connection failed)
+uk1848	Skipped (VPN connection failed)
+uk1849	Skipped (VPN connection failed)
+uk1850	Skipped (VPN connection failed)
+uk1851	Skipped (VPN connection failed)
+uk1838	Skipped (VPN connection failed)
+uk1839	Available
+uk1840	Available
+uk1841	Skipped (VPN connection failed)
+uk1842	Skipped (VPN connection failed)
+uk1843	Available
+uk1844	Available
+uk1845	Available
+uk1846	Available
+uk1847	Available
+uk1866	Available
+uk1867	Available
+uk1873	Available
+uk1877	Skipped (VPN connection failed)
+uk1878	Skipped (VPN connection failed)
+uk1879	Skipped (VPN connection failed)
+uk1882	Skipped (VPN connection failed)
+uk1883	Skipped (VPN connection failed)
+uk1884	Available
+uk1885	Skipped (VPN connection failed)
+uk1886	Available
+uk1887	Skipped (VPN connection failed)
+uk1889	Available
+uk1890	Available
+uk1891	Available
+uk1893	Available
+uk1894	Available
+uk1895	Available
+uk1896	Available
+uk1897	Available
+uk1898	Skipped (VPN connection failed)
+uk1899	Skipped (VPN connection failed)
+uk1900	Skipped (VPN connection failed)
+uk1901	Skipped (VPN connection failed)
+uk1902	Skipped (VPN connection failed)
+uk1903	Available
+uk1904	Skipped (VPN connection failed)
+uk1905	Available
+uk1906	Skipped (VPN connection failed)
+uk1907	Available
+uk1908	Skipped (VPN connection failed)
+uk1909	Available
+uk1910	Available
+uk1911	Available
+uk1912	Available
+uk1913	Available
+uk1914	Available
+uk1915	Available
+uk1916	Skipped (VPN connection failed)
+uk1917	Skipped (VPN connection failed)
+uk1918	Skipped (VPN connection failed)
+uk1919	Skipped (VPN connection failed)
+uk1920	Skipped (VPN connection failed)
+uk1921	Available
+uk1602	Skipped (VPN connection failed)
+uk1924	Available
+uk1925	Available
+uk1926	Skipped (VPN connection failed)
+uk1927	Skipped (VPN connection failed)
+uk1933	Available
+uk1934	Available
+uk1935	Available
+uk1944	Available
+uk1945	Available
+uk1946	Available
+uk1999	Available
+uk2000	Skipped (VPN connection failed)
+uk2001	Skipped (VPN connection failed)
+uk2002	Skipped (VPN connection failed)
+uk2003	Skipped (VPN connection failed)
+uk2004	Available
+uk2005	Skipped (VPN connection failed)
+uk2006	Available
+uk2007	Available
+uk2008	Skipped (VPN connection failed)
+uk2009	Skipped (VPN connection failed)
+uk2010	Available
+uk2011	Available
+uk2012	Available
+uk2013	Available
+uk2014	Available
+uk2015	Available
+uk2016	Available
+uk2017	Skipped (VPN connection failed)
+uk2018	Skipped (VPN connection failed)
+uk2019	Skipped (VPN connection failed)
+uk2020	Skipped (VPN connection failed)
+uk2021	Available
+uk2022	Skipped (VPN connection failed)
+uk2023	Available
+uk2024	Available
+uk2025	Skipped (VPN connection failed)
+uk2026	Skipped (VPN connection failed)
+uk2027	Available
+uk2028	Available
+uk2029	Available
+uk2030	Available
+uk2031	Available
+uk2032	Available
+uk2033	Available
+uk2034	Skipped (VPN connection failed)
+uk2035	Skipped (VPN connection failed)
+uk2036	Skipped (VPN connection failed)
+uk2037	Available
+uk2038	Skipped (VPN connection failed)
+uk2039	Skipped (VPN connection failed)
+uk2040	Available
+uk2041	Available
+uk2042	Skipped (VPN connection failed)
+uk2043	Skipped (VPN connection failed)
+uk2044	Available
+uk2045	Available
+uk2046	Skipped (VPN connection failed)
+uk2047	Available
+uk2048	Available
+uk2049	Available
+uk2050	Available
+uk2051	Skipped (VPN connection failed)
+uk2052	Available
+uk2053	Skipped (VPN connection failed)
+uk2054	Skipped (VPN connection failed)
+uk2065	Available
+uk2066	Skipped (VPN connection failed)
+uk2067	Available
+uk2069	Available
+uk1604	Skipped (VPN connection failed)
+uk2070	Skipped (VPN connection failed)
+uk2071	Available
+uk2072	Available
+uk2073	Skipped (VPN connection failed)
+uk2074	Available
+uk2075	Available
+uk2076	Available
+uk2077	Skipped (VPN connection failed)
+uk2079	Available
+uk2080	Available
+uk2081	Skipped (VPN connection failed)
+uk2082	Skipped (VPN connection failed)
+uk2083	Available
+uk2084	Skipped (VPN connection failed)
+uk2085	Available
+uk2086	Available
+uk2087	Skipped (VPN connection failed)
+uk2088	Skipped (VPN connection failed)
+uk2089	Available
+uk2090	Skipped (VPN connection failed)
+uk2091	Available
+uk2092	Available
+uk2093	Available
+uk2094	Available
+uk2095	Skipped (VPN connection failed)
+uk2096	Available
+uk2097	Available
+uk2098	Skipped (VPN connection failed)
+uk2102	Skipped (VPN connection failed)
+uk2103	Available
+uk2104	Skipped (VPN connection failed)
+uk2105	Available
+uk2106	Skipped (VPN connection failed)
+uk2107	Available
+uk2108	Skipped (VPN connection failed)
+uk2109	Available
+uk2110	Skipped (VPN connection failed)
+uk2111	Skipped (VPN connection failed)
+uk2112	Available
+uk2113	Available
+uk2114	Available
+uk2115	Available
+uk2116	Available
+uk2117	Available
+uk2118	Skipped (VPN connection failed)
+uk2119	Skipped (VPN connection failed)
+uk2120	Available
+uk2121	Skipped (VPN connection failed)
+uk2122	Available
+uk2123	Skipped (VPN connection failed)
+uk2124	Available
+uk2142	Skipped (VPN connection failed)
+uk2143	Available
+uk2144	Skipped (VPN connection failed)
+uk2145	Skipped (VPN connection failed)
+uk2146	Available
+uk2147	Skipped (VPN connection failed)
+uk2148	Available
+uk2149	Available
+uk2150	Available
+uk2151	Available
+uk2152	Available
+uk2153	Skipped (VPN connection failed)
+uk2154	Skipped (VPN connection failed)
+uk2160	Available
+uk2161	Available
+uk2162	Skipped (VPN connection failed)
+uk2163	Available
+uk2164	Skipped (VPN connection failed)
+uk2165	Available
+uk2166	Skipped (VPN connection failed)
+uk2167	Skipped (VPN connection failed)
+uk2168	Available
+uk2169	Skipped (VPN connection failed)
+uk2182	Skipped (Server unavailable or unsupported)
+uk2183	Available
+uk2184	Available
+uk2185	Available
+uk2186	Available
+uk2188	Skipped (Server unavailable or unsupported)
+uk2189	Skipped (Server unavailable or unsupported)
+uk2190	Skipped (Server unavailable or unsupported)
+uk2191	Skipped (Server unavailable or unsupported)
+uk2192	Skipped (Server unavailable or unsupported)
+uk2193	Available
+uk2194	Skipped (VPN connection failed)
+uk2195	Skipped (VPN connection failed)
+uk2196	Available
+uk2197	Available
+uk2198	Available
+uk2199	Skipped (VPN connection failed)
+uk2200	Skipped (VPN connection failed)
+uk2201	Available
+uk2202	Skipped (VPN connection failed)
+uk2203	Available
+uk2204	Skipped (VPN connection failed)
+uk2205	Skipped (VPN connection failed)
+uk2206	Available
+uk2207	Available
+uk2208	Available
+uk2209	Available
+uk2210	Available
+uk2211	Skipped (VPN connection failed)
+uk2212	Skipped (VPN connection failed)
+uk2213	Available
+uk2214	Available
+uk2216	Available
+uk2217	Skipped (VPN connection failed)
+uk2218	Skipped (VPN connection failed)
+uk2219	Available
+uk2220	Skipped (VPN connection failed)
+uk2221	Available
+uk2222	Skipped (VPN connection failed)
+uk2223	Skipped (VPN connection failed)
+uk2224	Available
+uk2225	Available
+uk2226	Skipped (VPN connection failed)
+uk2227	Available
+uk2228	Available
+uk2229	Available
+uk2230	Skipped (VPN connection failed)
+uk2231	Available
+uk2232	Available
+uk2233	Available
+uk2234	Skipped (VPN connection failed)
+uk2235	Skipped (VPN connection failed)
+uk2236	Available
+uk2237	Skipped (VPN connection failed)
+uk2238	Available
+uk2239	Skipped (VPN connection failed)
+uk2240	Skipped (VPN connection failed)
+uk2241	Skipped (VPN connection failed)
+uk2242	Available
+uk2243	Available
+uk2244	Skipped (VPN connection failed)
+uk2245	Available
+uk2246	Available
+uk2247	Available
+uk2248	Available
+uk2249	Available
+uk2251	Available
+uk2253	Skipped (VPN connection failed)
+uk2254	Skipped (VPN connection failed)
+uk2255	Skipped (VPN connection failed)
+uk2256	Available
+uk2257	Available
+uk2258	Skipped (VPN connection failed)
+uk2259	Skipped (VPN connection failed)
+uk2260	Skipped (VPN connection failed)
+uk2261	Skipped (VPN connection failed)
+uk2262	Available
+uk2268	Available
+uk2269	Skipped (VPN connection failed)
+uk2270	Available
+uk2271	Available
+uk2272	Available
+uk2273	Available
+uk2274	Available
+uk2275	Available
+uk2276	Available
+uk2277	Skipped (VPN connection failed)
+uk2278	Skipped (VPN connection failed)
+uk2279	Skipped (VPN connection failed)
+uk2280	Available
+uk2281	Skipped (VPN connection failed)
+uk2282	Available
+uk2283	Skipped (VPN connection failed)
+uk2284	Skipped (VPN connection failed)
+uk2285	Available
+uk2286	Skipped (VPN connection failed)
+uk2287	Available
+uk-nl10	Blocked
+uk-fr11	Blocked
+uk2308	Available
+uk2309	Available
+uk2310	Skipped (VPN connection failed)
+uk2311	Available
+uk2312	Skipped (VPN connection failed)
+uk2313	Skipped (VPN connection failed)
+uk2314	Available
+uk2315	Available
+uk2316	Skipped (VPN connection failed)
+uk2317	Skipped (VPN connection failed)
+uk2318	Available
+uk2319	Skipped (VPN connection failed)
+uk2320	Available
+uk2321	Skipped (VPN connection failed)
+uk2322	Skipped (VPN connection failed)
+uk2323	Available
+uk2324	Available
+uk2325	Available
+uk2288	Available
+uk2289	Available
+uk2290	Available
+uk2291	Available
+uk2292	Skipped (VPN connection failed)
+uk2293	Available
+uk2294	Skipped (VPN connection failed)
+uk2295	Skipped (VPN connection failed)
+uk2296	Skipped (VPN connection failed)
+uk2297	Available
+uk2298	Skipped (VPN connection failed)
+uk2299	Available
+uk2300	Skipped (VPN connection failed)
+uk2301	Skipped (VPN connection failed)
+uk2302	Available
+uk2303	Available
+uk2304	Available
+uk2305	Skipped (VPN connection failed)
+uk2306	Available
+uk2307	Available
+uk2328	Available
+uk2329	Available
+uk2330	Skipped (VPN connection failed)
+uk2331	Available
+uk1608	Skipped (VPN connection failed)
+uk-fr17	Skipped (VPN connection failed)
+uk-nl12	Skipped (VPN connection failed)
+uk2333	Available
+uk2334	Available
+uk2335	Skipped (VPN connection failed)
+uk2336	Skipped (VPN connection failed)
+uk2337	Available
+uk2338	Skipped (VPN connection failed)
+uk2339	Available
+uk2340	Available
+uk2341	Available
+uk2342	Available
+uk2343	Available
+uk2344	Available
+uk2345	Skipped (VPN connection failed)
+uk2346	Available
+uk2347	Skipped (VPN connection failed)
+uk2348	Skipped (VPN connection failed)
+uk2349	Skipped (VPN connection failed)
+uk2350	Available
+uk2351	Available
+uk2352	Skipped (VPN connection failed)
+uk2353	Skipped (VPN connection failed)
+uk2354	Available
+uk2355	Skipped (VPN connection failed)
+uk2356	Available
+uk2357	Available
+uk2359	Skipped (VPN connection failed)
+uk2360	Available
+uk2361	Available
+uk2363	Available
+uk2364	Available
+uk2365	Available
+uk2366	Skipped (VPN connection failed)
+uk2367	Skipped (VPN connection failed)
+uk2368	Skipped (VPN connection failed)
+uk2369	Skipped (VPN connection failed)
+uk2370	Available
+uk2371	Skipped (VPN connection failed)
+uk2372	Skipped (VPN connection failed)
+uk2373	Available
+uk2374	Available
+uk2375	Available
+uk2376	Skipped (VPN connection failed)
+uk2377	Available
+uk2378	Skipped (VPN connection failed)
+uk2379	Available
+uk2380	Available
+uk2381	Skipped (VPN connection failed)
+uk2382	Available
+uk2383	Available
+uk2386	Available
+uk2387	Skipped (VPN connection failed)
+uk2388	Skipped (VPN connection failed)
+uk2389	Available
+uk2390	Skipped (VPN connection failed)
+uk2391	Skipped (VPN connection failed)
+uk2392	Skipped (VPN connection failed)
+uk2393	Available
+uk2394	Available
+uk2395	Available
+uk2396	Available
+uk2397	Skipped (VPN connection failed)
+uk2398	Available
+uk2399	Available
+uk2400	Skipped (VPN connection failed)
+uk2401	Available
+uk2402	Skipped (VPN connection failed)
+uk2403	Available
+uk2404	Available
+uk2405	Skipped (VPN connection failed)
+uk2406	Available
+uk2407	Skipped (VPN connection failed)
+uk2408	Skipped (VPN connection failed)
+uk2409	Skipped (VPN connection failed)
+uk2410	Available
+uk2411	Available
+uk2412	Available
+uk2413	Skipped (VPN connection failed)
+uk2414	Available
+uk2415	Available
+uk2416	Available
+uk2417	Skipped (VPN connection failed)
+uk2418	Skipped (VPN connection failed)
+uk2419	Available
+uk2420	Available
+uk2421	Available
+uk2422	Skipped (VPN connection failed)
+uk2423	Available
+uk2424	Skipped (VPN connection failed)
+uk2425	Skipped (VPN connection failed)
+uk2426	Skipped (VPN connection failed)
+uk2427	Available
+uk2428	Available
+uk2429	Available
+uk2430	Skipped (VPN connection failed)
+uk2431	Skipped (VPN connection failed)
+uk2432	Available
+uk2433	Blocked
+uk2434	Available
+uk2435	Skipped (VPN connection failed)
+uk2436	Skipped (VPN connection failed)
+uk2437	Available
+uk2438	Blocked
+uk2440	Available
+uk2441	Available
+uk2442	Skipped (VPN connection failed)
+uk2443	Skipped (VPN connection failed)
+uk2444	Skipped (VPN connection failed)
+uk2445	Available
+uk2446	Available
+uk2447	Available
+uk2448	Skipped (VPN connection failed)
+uk2449	Skipped (VPN connection failed)
+uk2450	Available
+uk2451	Skipped (VPN connection failed)
+uk2452	Blocked
+uk2453	Blocked
+uk2454	Skipped (VPN connection failed)
+uk2455	Blocked
+uk2456	Available
+uk2457	Blocked
+uk2458	Blocked
+uk2459	Skipped (VPN connection failed)
+uk2460	Skipped (VPN connection failed)
+uk2461	Skipped (VPN connection failed)
+uk2462	Available
+uk2463	Available
+uk2464	Available
+uk2465	Skipped (VPN connection failed)
+uk2466	Skipped (VPN connection failed)
+uk2467	Skipped (VPN connection failed)
+uk2468	Skipped (VPN connection failed)
+uk2470	Available
+uk2471	Available
+uk2472	Skipped (VPN connection failed)
+uk2473	Available
+uk2474	Available
+uk2475	Available
+uk2476	Available
+uk2477	Skipped (VPN connection failed)
+uk2478	Skipped (VPN connection failed)
+uk2479	Available
+uk2480	Available
+uk2481	Skipped (VPN connection failed)
+uk2482	Available
+uk2483	Available
+uk2484	Skipped (VPN connection failed)
+uk2485	Skipped (VPN connection failed)
+uk2486	Skipped (VPN connection failed)
+uk2487	Available
+uk2488	Available
+uk2489	Skipped (VPN connection failed)
+uk2490	Available
+uk2491	Skipped (VPN connection failed)
+uk2492	Available
+uk2493	Available
+uk2494	Available
+uk2495	Skipped (VPN connection failed)
+uk2496	Available
+uk2497	Skipped (VPN connection failed)
+uk2498	Available
+uk2499	Available
+uk2500	Available
+uk2501	Skipped (VPN connection failed)
+uk2502	Skipped (VPN connection failed)
+uk2503	Skipped (VPN connection failed)
+uk2504	Skipped (VPN connection failed)
+uk2505	Available
+uk-fr18	Blocked
+uk2507	Available
+uk2508	Skipped (VPN connection failed)
+uk2509	Available
+uk2510	Available
+uk2511	Available
+uk2512	Skipped (VPN connection failed)
+uk2513	Available
+uk2514	Skipped (VPN connection failed)
+uk2515	Available
+uk2516	Skipped (VPN connection failed)
+uk2517	Available
+uk2518	Available
+uk2519	Skipped (VPN connection failed)
+uk2520	Skipped (VPN connection failed)
+uk2521	Skipped (VPN connection failed)
+uk2522	Available
+uk2523	Available
+uk2524	Available
+uk2525	Skipped (VPN connection failed)
+uk2526	Available
+uk2527	Available
+uk2528	Available
+uk2529	Skipped (VPN connection failed)
+uk2531	Skipped (VPN connection failed)
+uk2532	Available
+uk2533	Available
+uk2535	Skipped (VPN connection failed)
+uk2536	Available
+uk2537	Available
+uk2538	Skipped (VPN connection failed)
+uk1610	Skipped (VPN connection failed)
+uk1612	Skipped (Dedicated IP required)
+uk1613	Skipped (Dedicated IP required)
+uk1614	Skipped (Dedicated IP required)
+uk1615	Skipped (Dedicated IP required)
+uk1616	Skipped (Dedicated IP required)
+uk1617	Skipped (Dedicated IP required)
+uk1618	Skipped (Dedicated IP required)
+uk1619	Skipped (Dedicated IP required)
+uk2540	Available
+uk1620	Skipped (Dedicated IP required)
+uk1621	Skipped (Dedicated IP required)
+uk1622	Skipped (Dedicated IP required)
+uk1623	Skipped (Dedicated IP required)
+uk2541	Available
+uk2542	Skipped (VPN connection failed)
+uk2543	Skipped (VPN connection failed)
+uk2544	Available
+uk2545	Available
+uk2546	Available
+uk2547	Available
+uk2548	Skipped (VPN connection failed)
+uk2549	Available
+uk1624	Skipped (Dedicated IP required)
+uk1625	Skipped (Dedicated IP required)
+uk1626	Skipped (Dedicated IP required)
+uk1627	Skipped (Dedicated IP required)
+uk1628	Skipped (Dedicated IP required)
+uk1629	Skipped (Dedicated IP required)
+uk1630	Skipped (Dedicated IP required)
+uk1631	Skipped (Dedicated IP required)
+uk1632	Skipped (Dedicated IP required)
+uk1633	Skipped (Dedicated IP required)
+uk2552	Available
+uk2553	Available
+uk2554	Skipped (VPN connection failed)
+uk1634	Skipped (Dedicated IP required)
+uk1635	Skipped (Dedicated IP required)
+uk1636	Skipped (Dedicated IP required)
+uk1637	Skipped (Dedicated IP required)
+uk1638	Skipped (Dedicated IP required)
+uk1639	Skipped (Dedicated IP required)
+uk1640	Skipped (Dedicated IP required)
+uk1641	Skipped (Dedicated IP required)
+uk1642	Skipped (Dedicated IP required)
+uk1643	Skipped (Dedicated IP required)
+uk1644	Skipped (Dedicated IP required)
+uk1645	Skipped (Dedicated IP required)
+uk1646	Skipped (Dedicated IP required)
+uk1647	Skipped (Dedicated IP required)
+uk1648	Skipped (Dedicated IP required)
+uk1649	Skipped (Dedicated IP required)
+uk1650	Skipped (Dedicated IP required)
+uk1651	Skipped (Dedicated IP required)
+uk1652	Skipped (Dedicated IP required)
+uk1653	Skipped (Dedicated IP required)
+uk1654	Skipped (Dedicated IP required)
+uk1655	Skipped (Dedicated IP required)
+uk1656	Skipped (Dedicated IP required)
+uk1657	Skipped (Dedicated IP required)
+uk1658	Skipped (Dedicated IP required)
+uk1659	Skipped (Dedicated IP required)
+uk1660	Skipped (Dedicated IP required)
+uk1661	Skipped (Dedicated IP required)
+uk1662	Skipped (Dedicated IP required)
+uk1663	Skipped (Dedicated IP required)
+uk1664	Skipped (Dedicated IP required)
+uk1665	Blocked
+uk1668	Available
+uk1670	Available
+uk1671	Available
+uk1672	Skipped (VPN connection failed)
+uk1673	Available
+uk1674	Available
+uk1675	Available
+uk1676	Available
+uk1677	Skipped (VPN connection failed)
+uk1678	Available
+uk1679	Skipped (VPN connection failed)
+uk1680	Available
+uk1681	Available
+uk1682	Skipped (VPN connection failed)
+uk1683	Skipped (VPN connection failed)
+uk1684	Skipped (VPN connection failed)
+uk1685	Skipped (VPN connection failed)
+uk1686	Available
+uk1687	Available
+uk1688	Available
+uk1708	Skipped (Dedicated IP required)
+uk1709	Skipped (Dedicated IP required)
+uk1710	Skipped (Dedicated IP required)
+uk1711	Skipped (Dedicated IP required)
+uk1712	Skipped (Dedicated IP required)
+uk1713	Skipped (Dedicated IP required)
+uk1714	Skipped (Dedicated IP required)
+uk1715	Skipped (Dedicated IP required)
+uk1699	Skipped (VPN connection failed)
+uk1700	Available
+uk1701	Available
+uk1702	Available
+uk1703	Available
+uk1704	Available
+uk1705	Skipped (VPN connection failed)
+uk1706	Skipped (VPN connection failed)
+uk1707	Available
+uk1716	Available
+uk1717	Skipped (Dedicated IP required)
+uk1718	Skipped (Dedicated IP required)
+uk1719	Skipped (Dedicated IP required)
+uk1720	Skipped (Dedicated IP required)
+uk1721	Skipped (Dedicated IP required)
+uk1722	Skipped (Dedicated IP required)
+uk1723	Skipped (Dedicated IP required)
+uk1724	Skipped (Dedicated IP required)
+uk1725	Skipped (Dedicated IP required)
+uk1726	Skipped (Dedicated IP required)
+uk1727	Skipped (Dedicated IP required)
+uk1728	Skipped (Dedicated IP required)
+uk1729	Skipped (Dedicated IP required)
+uk1730	Skipped (Dedicated IP required)
+uk1731	Skipped (Dedicated IP required)
+uk1732	Skipped (Dedicated IP required)
+uk1734	Skipped (VPN connection failed)
+uk1735	Skipped (VPN connection failed)
+uk1737	Available
+uk1738	Available
+uk1739	Available
+uk1740	Skipped (VPN connection failed)
+uk1741	Available
+uk1742	Skipped (VPN connection failed)
+uk1744	Available
+uk1745	Available
+uk1746	Available
+uk1747	Available
+uk1748	Skipped (VPN connection failed)
+uk1749	Available
+uk1750	Skipped (VPN connection failed)
+uk1751	Available
+uk1752	Skipped (VPN connection failed)
+uk1759	Skipped (VPN connection failed)
+uk1760	Skipped (VPN connection failed)
+uk1761	Available
+uk1762	Available
+uk1763	Available
+uk1764	Skipped (VPN connection failed)
+uk1765	Available
+uk1766	Skipped (VPN connection failed)
+uk1767	Available
+uk1768	Skipped (VPN connection failed)
+uk1769	Available
+uk1770	Available
+uk1771	Available
+uk1772	Available
+uk1773	Skipped (VPN connection failed)
+uk1774	Available
+uk1775	Skipped (VPN connection failed)
+uk1776	Skipped (VPN connection failed)
+uk1777	Skipped (VPN connection failed)
+uk1778	Available
+uk1779	Available
+uk1780	Available
+uk1781	Skipped (VPN connection failed)
+uk1782	Available
+uk1783	Skipped (VPN connection failed)
+uk1786	Available
+uk1787	Available
+uk1788	Available
+uk2557	Skipped (VPN connection failed)
+uk2558	Available
+uk2559	Available
+uk2561	Skipped (VPN connection failed)
+uk2562	Available
+uk2563	Skipped (VPN connection failed)
+uk2564	Skipped (VPN connection failed)
+uk2565	Skipped (VPN connection failed)
+uk2566	Available
+uk2567	Available
+uk2568	Available
+uk2569	Skipped (VPN connection failed)
+uk2570	Available
+uk2571	Skipped (VPN connection failed)
+uk2572	Available
+uk2573	Available
+uk2574	Available
+uk2575	Skipped (VPN connection failed)
+uk2576	Available
+uk2577	Available
+uk2578	Skipped (VPN connection failed)
+uk2579	Available
+uk2580	Skipped (VPN connection failed)
+uk2581	Skipped (VPN connection failed)
+uk2582	Skipped (VPN connection failed)
+uk2583	Available
+uk2584	Skipped (VPN connection failed)
+uk2585	Available
+uk2586	Skipped (VPN connection failed)
+uk2587	Available
+uk2588	Available
+uk2589	Skipped (VPN connection failed)
+uk2590	Available
+uk2591	Available
+uk2592	Skipped (VPN connection failed)
+uk2593	Available
+uk2594	Available
+uk2595	Available
+uk2596	Skipped (VPN connection failed)
+uk2597	Available
+uk2598	Skipped (VPN connection failed)
+uk2599	Skipped (VPN connection failed)
+uk2600	Skipped (VPN connection failed)
+uk2601	Available
+uk2602	Available
+uk2603	Skipped (VPN connection failed)
+uk2604	Available
+uk2605	Available
+uk2606	Skipped (VPN connection failed)
+uk2607	Available
+uk2609	Available
+uk2610	Available
+uk2611	Skipped (VPN connection failed)
+uk2612	Available
+uk2613	Available
+uk2614	Available
+uk2615	Skipped (VPN connection failed)
+uk2616	Available
+uk2617	Skipped (VPN connection failed)
+uk2618	Skipped (VPN connection failed)
+uk2619	Skipped (VPN connection failed)
+uk2620	Available
+uk2621	Skipped (VPN connection failed)
+uk2622	Available
+uk2623	Available
+uk2624	Skipped (VPN connection failed)
+uk2625	Available
+uk2626	Available
+uk2627	Available
+uk2628	Skipped (VPN connection failed)
+uk2629	Available
+uk2630	Skipped (VPN connection failed)
+uk2631	Available
+uk2632	Available
+uk2633	Available
+uk2634	Skipped (VPN connection failed)
+uk2635	Skipped (VPN connection failed)
+uk2636	Skipped (VPN connection failed)
+uk2637	Available
+uk2638	Skipped (VPN connection failed)
+uk2639	Available
+uk2640	Available
+uk2641	Skipped (VPN connection failed)
+uk2642	Available
+uk2643	Available
+uk2644	Skipped (VPN connection failed)
+uk2645	Available
+uk2646	Skipped (VPN connection failed)
+uk2647	Available
+uk2648	Available
+uk2649	Available
+uk2650	Available
+uk2651	Skipped (VPN connection failed)
+uk2652	Skipped (VPN connection failed)
+uk2653	Skipped (VPN connection failed)
+uk2654	Available
+uk2655	Skipped (VPN connection failed)
+uk2656	Available
+uk2657	Available
+uk2658	Skipped (VPN connection failed)
+uk2659	Available
+uk2660	Skipped (VPN connection failed)
+uk2661	Available
+uk2662	Available
+uk2663	Skipped (VPN connection failed)
+uk2664	Available
+uk2665	Available
+uk2666	Available
+uk2667	Skipped (VPN connection failed)
+uk2668	Available
+uk2669	Skipped (VPN connection failed)
+uk2670	Skipped (VPN connection failed)
+uk2671	Available
+uk2672	Skipped (VPN connection failed)
+uk2673	Available
+uk2674	Available
+uk2675	Skipped (VPN connection failed)
+uk2676	Available
+uk2677	Skipped (VPN connection failed)
+uk2678	Available
+uk2679	Skipped (VPN connection failed)
+uk2680	Available
+uk2681	Available
+uk2682	Available
+uk2683	Available
+uk2684	Skipped (VPN connection failed)
+uk2685	Available
+uk2686	Skipped (VPN connection failed)
+uk2687	Skipped (VPN connection failed)
+uk2688	Skipped (VPN connection failed)
+uk2689	Available
+uk2690	Available
+uk2691	Available
+uk2692	Skipped (VPN connection failed)
+uk2693	Skipped (VPN connection failed)
+uk2694	Available
+uk2695	Available
+uk2696	Skipped (VPN connection failed)
+uk2697	Available
+uk2698	Available
+uk2699	Available
+uk2700	Available
+uk2701	Skipped (VPN connection failed)
+uk2702	Available
+uk2703	Skipped (VPN connection failed)
+uk2704	Skipped (VPN connection failed)
+uk2705	Skipped (VPN connection failed)
+uk2706	Available
+uk2707	Available
+uk2708	Available
+uk2709	Skipped (VPN connection failed)
+uk2710	Skipped (VPN connection failed)
+uk2711	Available
+uk2712	Skipped (VPN connection failed)
+uk2713	Available
+uk2714	Available
+uk2715	Available
+uk2716	Available
+uk2717	Skipped (VPN connection failed)
+uk2718	Available
+uk2719	Available
+uk2720	Skipped (VPN connection failed)
+uk2721	Skipped (VPN connection failed)
+uk2722	Skipped (VPN connection failed)
+uk2723	Available
+uk2724	Available
+uk2725	Available
+uk2726	Skipped (VPN connection failed)
+uk2727	Skipped (VPN connection failed)
+uk2728	Available
+uk2729	Skipped (VPN connection failed)
+uk2730	Skipped (VPN connection failed)
+uk2731	Available
+uk2732	Available
+uk2733	Available
+uk2734	Available
+uk2735	Available
+uk2736	Skipped (VPN connection failed)
+uk2737	Available
+uk2738	Skipped (VPN connection failed)
+uk2739	Skipped (VPN connection failed)
+uk2740	Available
+uk2741	Available
+uk2742	Skipped (VPN connection failed)
+uk2743	Skipped (VPN connection failed)
+uk2744	Available
+uk2745	Available
+uk2746	Skipped (VPN connection failed)
+uk2747	Skipped (VPN connection failed)
+uk2748	Skipped (VPN connection failed)
+uk-se1	Blocked
+uk-se2	Blocked
+uk-nl14	Blocked
+uk-nl15	Blocked
+uk-nl16	Blocked
+uk-nl17	Blocked
+uk-nl18	Skipped (VPN connection failed)
+uk-nl19	Skipped (VPN connection failed)
+uk2749	Available
+uk2750	Skipped (Dedicated IP required)
+uk2751	Skipped (Dedicated IP required)
+uk2752	Skipped (Dedicated IP required)
+uk2753	Skipped (Dedicated IP required)
+uk2754	Skipped (Dedicated IP required)
+uk2755	Skipped (Dedicated IP required)
+uk2756	Skipped (Dedicated IP required)
+uk2757	Skipped (Dedicated IP required)
+uk-se4	Blocked
+uk-nl20	Skipped (VPN connection failed)
+uk-nl21	Skipped (VPN connection failed)
+uk-nl22	Blocked
+uk-fr20	Blocked

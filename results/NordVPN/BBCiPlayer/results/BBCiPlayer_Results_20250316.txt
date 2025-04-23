@@ -1,0 +1,955 @@
+Server	Externe IP	Ergebnis
+uk1784	91.196.222.222	Available
+uk765	194.88.100.8	Available
+uk812	194.88.100.20	Available
+uk813	194.88.100.34	Available
+uk814	194.88.100.36	Available
+uk871	194.88.100.55	Available
+uk873	194.88.100.59	Available
+uk875	194.88.100.72	Available
+uk877	194.88.100.86	Available
+uk879	194.88.100.90	Available
+uk884	n/a	Skipped (VPN connection failed)
+uk886	n/a	Skipped (VPN connection failed)
+uk1806	n/a	Skipped (VPN connection failed)
+uk888	n/a	Skipped (VPN connection failed)
+uk890	n/a	Skipped (VPN connection failed)
+uk892	n/a	Skipped (VPN connection failed)
+uk894	n/a	Skipped (VPN connection failed)
+uk896	194.88.100.180	Available
+uk898	n/a	Skipped (VPN connection failed)
+uk1785	194.35.123.109	Available
+uk1807	92.118.61.136	Available
+uk1808	92.118.61.149	Available
+uk1809	92.118.61.160	Available
+uk1810	92.118.61.178	Available
+uk1811	92.118.61.193	Available
+uk1812	92.118.61.202	Available
+uk1813	92.118.61.225	Available
+uk1814	92.118.61.230	Available
+uk1815	n/a	Skipped (VPN connection failed)
+uk1816	n/a	Skipped (VPN connection failed)
+uk1821	n/a	Skipped (VPN connection failed)
+uk1822	n/a	Skipped (VPN connection failed)
+uk1823	n/a	Skipped (VPN connection failed)
+uk1824	n/a	Skipped (VPN connection failed)
+uk1825	n/a	Skipped (VPN connection failed)
+uk1826	n/a	Skipped (VPN connection failed)
+uk1827	2.58.72.112	Available
+uk1828	2.58.72.118	Available
+uk1829	2.58.72.136	Available
+uk1830	2.58.72.145	Available
+uk1835	193.203.14.144	Available
+uk1836	193.203.14.121	Available
+uk1837	193.203.14.96	Available
+uk1848	91.196.221.20	Available
+uk1849	91.196.221.28	Available
+uk1850	91.196.221.49	Available
+uk1851	91.196.221.58	Available
+uk1838	n/a	Skipped (VPN connection failed)
+uk1839	n/a	Skipped (VPN connection failed)
+uk1840	n/a	Skipped (VPN connection failed)
+uk1841	n/a	Skipped (VPN connection failed)
+uk1842	n/a	Skipped (VPN connection failed)
+uk1843	n/a	Skipped (VPN connection failed)
+uk1844	n/a	Skipped (VPN connection failed)
+uk1845	2.58.73.10	Available
+uk1846	2.58.73.31	Available
+uk1847	2.58.73.37	Available
+uk1866	91.196.222.107	Available
+uk1867	91.196.222.231	Available
+uk1873	91.196.222.157	Available
+uk1875	91.196.222.173	Available
+uk1876	91.196.222.180	Available
+uk1877	91.196.222.185	Available
+uk1878	91.196.222.199	Available
+uk1879	n/a	Skipped (VPN connection failed)
+uk1882	n/a	Skipped (VPN connection failed)
+uk1883	91.196.221.146	Available
+uk1884	n/a	Skipped (VPN connection failed)
+uk1885	n/a	Skipped (VPN connection failed)
+uk1886	n/a	Skipped (VPN connection failed)
+uk1887	n/a	Skipped (VPN connection failed)
+uk1889	n/a	Skipped (VPN connection failed)
+uk1890	91.196.221.218	Available
+uk1891	91.196.221.230	Available
+uk1893	91.196.221.245	Available
+uk1894	91.196.221.250	Available
+uk1895	91.196.222.14	Available
+uk1896	91.196.222.18	Available
+uk1897	n/a	Skipped (VPN connection failed)
+uk1898	176.227.242.13	Available
+uk1899	176.227.242.17	Available
+uk1900	176.227.242.38	Available
+uk1901	n/a	Skipped (VPN connection failed)
+uk1902	176.227.242.76	Available
+uk1903	n/a	Skipped (VPN connection failed)
+uk1904	n/a	Skipped (VPN connection failed)
+uk1905	n/a	Skipped (VPN connection failed)
+uk1906	n/a	Skipped (VPN connection failed)
+uk1907	n/a	Skipped (VPN connection failed)
+uk1908	176.227.242.165	Available
+uk1909	176.227.242.176	Available
+uk1910	176.227.242.186	Available
+uk1911	176.227.242.207	Available
+uk1912	176.227.242.221	Available
+uk1913	n/a	Skipped (VPN connection failed)
+uk1914	176.227.242.252	Available
+uk1915	193.160.245.9	Available
+uk1916	193.160.245.31	Available
+uk1917	193.160.245.46	Available
+uk1918	193.160.245.58	Available
+uk1919	193.160.245.66	Available
+uk1920	n/a	Skipped (VPN connection failed)
+uk1921	n/a	Skipped (VPN connection failed)
+uk1602	n/a	Skipped (VPN connection failed)
+uk1924	n/a	Skipped (VPN connection failed)
+uk1925	n/a	Skipped (VPN connection failed)
+uk1926	91.196.222.61	Available
+uk1927	n/a	Skipped (VPN connection failed)
+uk1933	91.196.222.77	Available
+uk1934	91.196.222.89	Available
+uk1935	91.196.222.100	Available
+uk1944	n/a	Skipped (VPN connection failed)
+uk1945	91.196.222.136	Available
+uk1946	91.196.222.154	Available
+uk1999	185.216.146.252	Available
+uk2000	217.146.93.9	Available
+uk2001	217.146.93.23	Available
+uk2002	n/a	Skipped (VPN connection failed)
+uk2003	n/a	Skipped (VPN connection failed)
+uk2004	n/a	Skipped (VPN connection failed)
+uk2005	185.216.146.224	Available
+uk2006	n/a	Skipped (VPN connection failed)
+uk2007	n/a	Skipped (VPN connection failed)
+uk2008	217.146.93.74	Available
+uk2009	n/a	Skipped (VPN connection failed)
+uk2010	n/a	Skipped (VPN connection failed)
+uk2011	185.216.146.186	Available
+uk2012	217.146.93.116	Available
+uk2013	185.216.146.179	Available
+uk2014	217.146.93.133	Available
+uk2015	n/a	Skipped (VPN connection failed)
+uk2016	217.146.93.152	Available
+uk2017	185.216.146.159	Available
+uk2018	217.146.93.169	Available
+uk2019	185.216.146.142	Available
+uk2020	n/a	Skipped (VPN connection failed)
+uk2021	n/a	Skipped (VPN connection failed)
+uk2022	185.216.146.127	Available
+uk2023	n/a	Skipped (VPN connection failed)
+uk2024	n/a	Skipped (VPN connection failed)
+uk2025	217.146.93.236	Available
+uk2026	n/a	Skipped (VPN connection failed)
+uk2027	185.216.146.97	Available
+uk2028	n/a	Skipped (VPN connection failed)
+uk2029	185.216.146.85	Available
+uk2030	89.37.175.20	Available
+uk2031	185.216.146.79	Available
+uk2032	185.216.146.73	Available
+uk2033	89.37.175.36	Available
+uk2034	89.37.175.48	Available
+uk2035	89.37.175.51	Available
+uk2036	n/a	Skipped (VPN connection failed)
+uk2037	n/a	Skipped (VPN connection failed)
+uk2038	89.37.175.73	Available
+uk2039	n/a	Skipped (VPN connection failed)
+uk2040	n/a	Skipped (VPN connection failed)
+uk2041	n/a	Skipped (VPN connection failed)
+uk2042	89.37.175.94	Available
+uk2043	n/a	Skipped (VPN connection failed)
+uk2044	89.37.175.141	Available
+uk2045	n/a	Skipped (VPN connection failed)
+uk2046	89.37.175.181	Available
+uk2047	89.37.175.199	Available
+uk2048	n/a	Skipped (VPN connection failed)
+uk2049	89.37.175.215	Available
+uk2050	89.37.175.231	Available
+uk2051	89.37.175.245	Available
+uk2052	89.35.25.244	Available
+uk2053	91.196.222.241	Available
+uk2054	n/a	Skipped (VPN connection failed)
+uk2065	91.196.221.9	Available
+uk2066	n/a	Skipped (VPN connection failed)
+uk2067	n/a	Skipped (VPN connection failed)
+uk2069	n/a	Skipped (VPN connection failed)
+uk1604	194.88.100.215	Available
+uk2070	n/a	Skipped (VPN connection failed)
+uk2071	217.146.93.217	Available
+uk2072	n/a	Skipped (VPN connection failed)
+uk2073	89.37.175.132	Available
+uk2074	89.37.175.153	Available
+uk2075	n/a	Skipped (VPN connection failed)
+uk2076	194.35.122.21	Available
+uk2077	194.35.122.40	Available
+uk2079	194.35.122.72	Available
+uk2080	194.35.122.85	Available
+uk2081	194.35.122.102	Available
+uk2082	194.35.122.121	Available
+uk2083	n/a	Skipped (VPN connection failed)
+uk2084	n/a	Skipped (VPN connection failed)
+uk2085	n/a	Skipped (VPN connection failed)
+uk2087	n/a	Skipped (VPN connection failed)
+uk2088	194.35.122.206	Available
+uk2089	n/a	Skipped (VPN connection failed)
+uk2090	194.35.122.241	Available
+uk2091	n/a	Skipped (VPN connection failed)
+uk2092	194.35.123.7	Available
+uk2093	194.35.123.29	Available
+uk2094	194.35.123.40	Available
+uk2095	194.35.123.59	Available
+uk2096	194.35.123.64	Available
+uk2097	194.35.123.86	Available
+uk2098	194.35.123.101	Available
+uk2102	n/a	Skipped (VPN connection failed)
+uk2103	185.158.242.19	Available
+uk2104	n/a	Skipped (VPN connection failed)
+uk2105	n/a	Skipped (VPN connection failed)
+uk2106	185.158.242.64	Available
+uk2107	n/a	Skipped (VPN connection failed)
+uk2108	n/a	Skipped (VPN connection failed)
+uk2109	185.216.146.14	Available
+uk2110	n/a	Skipped (VPN connection failed)
+uk2113	194.35.123.167	Available
+uk2150	185.158.242.137	Available
+uk2151	185.158.242.149	Available
+uk2152	185.158.242.103	Available
+uk2153	185.158.242.116	Available
+uk2154	185.158.242.151	Available
+uk2169	91.196.221.126	Available
+uk2183	n/a	Skipped (VPN connection failed)
+uk2184	91.196.221.88	Available
+uk2185	n/a	Skipped (VPN connection failed)
+uk2186	n/a	Skipped (VPN connection failed)
+uk2191	n/a	Skipped (Server unavailable or unsupported)
+uk2192	n/a	Skipped (Server unavailable or unsupported)
+uk2193	193.160.245.118	Available
+uk2194	n/a	Skipped (VPN connection failed)
+uk2195	n/a	Skipped (VPN connection failed)
+uk2196	193.160.245.165	Available
+uk2197	n/a	Skipped (VPN connection failed)
+uk2198	n/a	Skipped (VPN connection failed)
+uk2199	193.160.245.213	Available
+uk2200	n/a	Skipped (VPN connection failed)
+uk2201	193.160.245.238	Available
+uk2202	193.160.245.250	Available
+uk2203	193.160.246.6	Available
+uk2204	193.160.246.23	Available
+uk2205	193.160.246.42	Available
+uk2206	n/a	Skipped (VPN connection failed)
+uk2207	193.160.246.75	Available
+uk2208	193.160.246.81	Available
+uk2209	n/a	Skipped (VPN connection failed)
+uk2210	193.160.246.118	Available
+uk2211	n/a	Skipped (VPN connection failed)
+uk2212	n/a	Skipped (VPN connection failed)
+uk2213	193.160.246.163	Available
+uk2214	n/a	Skipped (VPN connection failed)
+uk2216	n/a	Skipped (VPN connection failed)
+uk2217	n/a	Skipped (VPN connection failed)
+uk2218	185.158.242.173	Available
+uk2219	185.158.242.184	Available
+uk2220	185.158.242.198	Available
+uk2221	185.158.242.209	Available
+uk2222	185.158.242.216	Available
+uk2223	185.158.242.227	Available
+uk2224	n/a	Skipped (VPN connection failed)
+uk2225	185.158.242.251	Available
+uk2226	89.40.212.14	Available
+uk2227	n/a	Skipped (VPN connection failed)
+uk2228	89.40.212.29	Available
+uk2229	n/a	Skipped (VPN connection failed)
+uk2230	n/a	Skipped (VPN connection failed)
+uk2231	89.40.212.75	Available
+uk2232	n/a	Skipped (VPN connection failed)
+uk2233	n/a	Skipped (VPN connection failed)
+uk2234	n/a	Skipped (VPN connection failed)
+uk2235	89.40.212.116	Available
+uk2236	89.40.212.129	Available
+uk2237	89.40.212.143	Available
+uk2238	89.40.212.151	Available
+uk2239	89.40.212.172	Available
+uk2240	89.40.212.182	Available
+uk2241	n/a	Skipped (VPN connection failed)
+uk2242	89.40.212.203	Available
+uk2243	89.40.212.212	Available
+uk2244	89.40.212.229	Available
+uk2245	n/a	Skipped (VPN connection failed)
+uk2246	n/a	Skipped (VPN connection failed)
+uk2247	n/a	Skipped (VPN connection failed)
+uk2248	n/a	Skipped (VPN connection failed)
+uk2249	188.241.144.34	Available
+uk2251	n/a	Skipped (VPN connection failed)
+uk2253	n/a	Skipped (VPN connection failed)
+uk2254	188.241.144.92	Available
+uk2255	188.241.144.104	Available
+uk2256	188.241.144.115	Available
+uk2257	188.241.144.132	Available
+uk2258	188.241.144.145	Available
+uk2259	n/a	Skipped (VPN connection failed)
+uk2260	188.241.144.166	Available
+uk2261	188.241.144.173	Available
+uk2262	188.241.144.184	Available
+uk2268	n/a	Skipped (VPN connection failed)
+uk2269	185.61.158.15	Available
+uk2270	n/a	Skipped (VPN connection failed)
+uk2271	n/a	Skipped (VPN connection failed)
+uk2272	n/a	Skipped (VPN connection failed)
+uk2273	185.61.158.61	Available
+uk2274	n/a	Skipped (VPN connection failed)
+uk2275	n/a	Skipped (VPN connection failed)
+uk2276	185.61.158.91	Available
+uk2277	n/a	Skipped (VPN connection failed)
+uk2278	185.61.158.124	Available
+uk2279	185.61.158.136	Available
+uk2280	185.61.158.145	Available
+uk2281	185.61.158.159	Available
+uk2282	185.61.158.174	Available
+uk2283	185.61.158.179	Available
+uk2284	185.61.158.192	Available
+uk2285	n/a	Skipped (VPN connection failed)
+uk2286	185.61.158.216	Available
+uk2287	n/a	Skipped (VPN connection failed)
+uk-nl10	n/a	Skipped (VPN connection failed)
+uk-fr11	n/a	Skipped (VPN connection failed)
+uk2308	n/a	Skipped (VPN connection failed)
+uk2309	185.137.36.238	Available
+uk2310	n/a	Skipped (VPN connection failed)
+uk2311	89.35.25.12	Available
+uk2312	n/a	Skipped (VPN connection failed)
+uk2313	89.35.25.30	Available
+uk2314	89.35.25.47	Available
+uk2315	89.35.25.51	Available
+uk2316	89.35.25.68	Available
+uk2317	89.35.25.76	Available
+uk2318	89.35.25.93	Available
+uk2319	n/a	Skipped (VPN connection failed)
+uk2320	89.35.25.111	Available
+uk2321	89.35.25.133	Available
+uk2322	n/a	Skipped (VPN connection failed)
+uk2323	n/a	Skipped (VPN connection failed)
+uk2324	n/a	Skipped (VPN connection failed)
+uk2325	n/a	Skipped (VPN connection failed)
+uk2288	185.61.158.246	Available
+uk2289	n/a	Skipped (VPN connection failed)
+uk2290	185.137.36.10	Available
+uk2291	n/a	Skipped (VPN connection failed)
+uk2292	185.137.36.33	Available
+uk2293	185.137.36.48	Available
+uk2294	185.137.36.60	Available
+uk2295	185.137.36.71	Available
+uk2296	185.137.36.88	Available
+uk2297	n/a	Skipped (VPN connection failed)
+uk2298	185.137.36.104	Available
+uk2299	185.137.36.120	Available
+uk2300	n/a	Skipped (VPN connection failed)
+uk2301	185.137.36.145	Available
+uk2302	n/a	Skipped (VPN connection failed)
+uk2303	n/a	Skipped (VPN connection failed)
+uk2304	n/a	Skipped (VPN connection failed)
+uk2305	185.137.36.188	Available
+uk2306	n/a	Skipped (VPN connection failed)
+uk2307	n/a	Skipped (VPN connection failed)
+uk2328	89.35.25.184	Available
+uk2329	89.35.25.206	Available
+uk2330	89.35.25.214	Available
+uk2331	89.35.25.220	Available
+uk1608	194.88.100.240	Available
+uk-fr17	149.88.28.90	Blocked
+uk-nl12	n/a	Skipped (VPN connection failed)
+uk2333	193.203.14.55	Available
+uk2334	2.58.73.119	Available
+uk2335	2.58.73.134	Available
+uk2336	n/a	Skipped (VPN connection failed)
+uk2337	n/a	Skipped (VPN connection failed)
+uk2338	2.58.73.53	Available
+uk2339	n/a	Skipped (VPN connection failed)
+uk2340	n/a	Skipped (VPN connection failed)
+uk2341	n/a	Skipped (VPN connection failed)
+uk2342	n/a	Skipped (VPN connection failed)
+uk2343	2.58.73.72	Available
+uk2344	n/a	Skipped (VPN connection failed)
+uk2345	2.58.73.101	Available
+uk2346	2.58.73.230	Available
+uk2347	2.58.73.249	Available
+uk2348	194.156.224.8	Available
+uk2349	194.156.224.27	Available
+uk2350	n/a	Skipped (VPN connection failed)
+uk2351	2.58.73.113	Available
+uk2352	n/a	Skipped (VPN connection failed)
+uk2353	194.156.224.71	Available
+uk2354	n/a	Skipped (VPN connection failed)
+uk2355	194.156.224.87	Available
+uk2356	194.156.224.108	Available
+uk2357	n/a	Skipped (VPN connection failed)
+uk2359	n/a	Skipped (VPN connection failed)
+uk2360	n/a	Skipped (VPN connection failed)
+uk2361	n/a	Skipped (VPN connection failed)
+uk2363	n/a	Skipped (VPN connection failed)
+uk2364	193.160.247.3	Available
+uk2365	193.160.247.24	Available
+uk2366	193.160.247.44	Available
+uk2367	193.160.247.52	Available
+uk2368	193.160.247.67	Available
+uk2369	193.160.247.82	Available
+uk2370	193.160.247.95	Available
+uk2371	n/a	Skipped (VPN connection failed)
+uk2372	n/a	Skipped (VPN connection failed)
+uk2373	193.160.247.131	Available
+uk2374	193.160.247.150	Available
+uk2375	193.160.247.159	Available
+uk2376	n/a	Skipped (VPN connection failed)
+uk2377	n/a	Skipped (VPN connection failed)
+uk2378	n/a	Skipped (VPN connection failed)
+uk2379	193.160.247.223	Available
+uk2380	n/a	Skipped (VPN connection failed)
+uk2381	n/a	Skipped (VPN connection failed)
+uk2382	193.203.14.26	Available
+uk2383	193.203.14.6	Available
+uk2384	n/a	Skipped (VPN connection failed)
+uk2385	130.185.117.231	Available
+uk2386	130.185.117.212	Available
+uk2387	130.185.117.209	Available
+uk2388	130.185.117.190	Available
+uk2389	n/a	Skipped (VPN connection failed)
+uk2390	130.185.117.157	Available
+uk2391	130.185.117.151	Available
+uk2392	n/a	Skipped (VPN connection failed)
+uk2393	130.185.117.116	Available
+uk2394	n/a	Skipped (VPN connection failed)
+uk2395	n/a	Skipped (VPN connection failed)
+uk2396	130.185.117.72	Available
+uk2397	n/a	Skipped (VPN connection failed)
+uk2398	n/a	Skipped (VPN connection failed)
+uk2399	130.185.117.32	Available
+uk2400	130.185.117.20	Available
+uk2401	n/a	Skipped (VPN connection failed)
+uk2402	130.185.116.248	Available
+uk2403	130.185.116.225	Available
+uk2404	n/a	Skipped (VPN connection failed)
+uk2405	130.185.116.200	Available
+uk2406	130.185.116.187	Available
+uk2407	130.185.116.174	Available
+uk2408	130.185.116.159	Available
+uk2409	n/a	Skipped (VPN connection failed)
+uk2410	130.185.116.134	Available
+uk2411	130.185.116.120	Available
+uk2412	n/a	Skipped (VPN connection failed)
+uk2413	n/a	Skipped (VPN connection failed)
+uk2414	n/a	Skipped (VPN connection failed)
+uk2415	n/a	Skipped (VPN connection failed)
+uk2416	130.185.116.47	Available
+uk2417	130.185.116.36	Available
+uk2418	n/a	Skipped (VPN connection failed)
+uk2419	130.185.116.3	Available
+uk2420	n/a	Skipped (VPN connection failed)
+uk2421	194.156.225.229	Available
+uk2422	194.156.225.221	Available
+uk2423	194.156.225.200	Available
+uk2424	194.156.225.192	Available
+uk2425	194.156.225.180	Available
+uk2426	n/a	Skipped (VPN connection failed)
+uk2427	194.156.225.152	Available
+uk2428	194.156.225.137	Available
+uk2429	n/a	Skipped (VPN connection failed)
+uk2430	n/a	Skipped (VPN connection failed)
+uk2431	n/a	Skipped (VPN connection failed)
+uk2432	n/a	Skipped (VPN connection failed)
+uk2433	84.247.40.21	Available
+uk2434	n/a	Skipped (VPN connection failed)
+uk2435	84.247.40.48	Blocked
+uk2436	84.247.40.69	Available
+uk2437	n/a	Skipped (VPN connection failed)
+uk2438	84.247.40.95	Available
+uk2440	84.247.40.124	Blocked
+uk2441	84.247.40.138	Available
+uk2442	n/a	Skipped (VPN connection failed)
+uk2443	84.247.40.168	Available
+uk2444	84.247.40.174	Blocked
+uk2445	84.247.40.195	Blocked
+uk2446	n/a	Skipped (VPN connection failed)
+uk2447	84.247.40.219	Available
+uk2448	n/a	Skipped (VPN connection failed)
+uk2449	n/a	Skipped (VPN connection failed)
+uk2450	n/a	Skipped (VPN connection failed)
+uk2451	n/a	Skipped (VPN connection failed)
+uk2452	n/a	Skipped (VPN connection failed)
+uk2453	84.247.41.48	Available
+uk2454	84.247.41.70	Available
+uk2455	n/a	Skipped (VPN connection failed)
+uk2456	84.247.41.87	Blocked
+uk2457	84.247.41.105	Available
+uk2458	84.247.41.118	Available
+uk2459	84.247.41.140	Available
+uk2460	84.247.41.154	Available
+uk2461	n/a	Skipped (VPN connection failed)
+uk2462	84.247.41.178	Available
+uk2463	84.247.41.185	Available
+uk2464	84.247.41.212	Available
+uk2465	n/a	Skipped (VPN connection failed)
+uk2466	84.247.41.237	Blocked
+uk2467	n/a	Skipped (VPN connection failed)
+uk2468	n/a	Skipped (VPN connection failed)
+uk2470	n/a	Skipped (VPN connection failed)
+uk2471	84.247.42.22	Available
+uk2472	n/a	Skipped (VPN connection failed)
+uk2473	84.247.42.58	Available
+uk2474	n/a	Skipped (VPN connection failed)
+uk2475	84.247.42.81	Available
+uk2476	84.247.42.98	Available
+uk2477	84.247.42.105	Available
+uk2478	84.247.42.125	Available
+uk2479	n/a	Skipped (VPN connection failed)
+uk2480	84.247.42.145	Available
+uk2481	84.247.42.170	Available
+uk2482	84.247.42.184	Available
+uk2483	n/a	Skipped (VPN connection failed)
+uk2484	84.247.42.203	Available
+uk2485	n/a	Skipped (VPN connection failed)
+uk2486	n/a	Skipped (VPN connection failed)
+uk2487	n/a	Skipped (VPN connection failed)
+uk2488	n/a	Skipped (VPN connection failed)
+uk2489	84.247.43.28	Available
+uk2490	84.247.43.43	Available
+uk2491	84.247.43.52	Available
+uk2492	n/a	Skipped (VPN connection failed)
+uk2493	n/a	Skipped (VPN connection failed)
+uk2494	84.247.43.98	Available
+uk2495	84.247.43.102	Available
+uk2496	84.247.43.125	Available
+uk2497	84.247.43.133	Available
+uk2498	84.247.43.146	Available
+uk2499	84.247.43.162	Available
+uk2500	84.247.43.176	Available
+uk2501	n/a	Skipped (VPN connection failed)
+uk2502	n/a	Skipped (VPN connection failed)
+uk2503	n/a	Skipped (VPN connection failed)
+uk2504	n/a	Skipped (VPN connection failed)
+uk2505	n/a	Skipped (VPN connection failed)
+uk-fr18	n/a	Skipped (VPN connection failed)
+uk2507	194.156.225.78	Available
+uk2508	n/a	Skipped (VPN connection failed)
+uk2509	194.156.225.53	Available
+uk2510	194.156.225.34	Available
+uk2511	194.156.225.23	Available
+uk2512	194.156.225.2	Available
+uk2513	91.196.223.13	Available
+uk2514	91.196.223.22	Available
+uk2515	91.196.223.35	Available
+uk2516	n/a	Skipped (VPN connection failed)
+uk2517	91.196.223.53	Available
+uk2518	91.196.223.62	Available
+uk2519	n/a	Skipped (VPN connection failed)
+uk2520	n/a	Skipped (VPN connection failed)
+uk2521	n/a	Skipped (VPN connection failed)
+uk2522	n/a	Skipped (VPN connection failed)
+uk2523	n/a	Skipped (VPN connection failed)
+uk2524	91.196.223.125	Available
+uk2525	n/a	Skipped (VPN connection failed)
+uk2526	91.196.223.148	Available
+uk2527	n/a	Skipped (VPN connection failed)
+uk2528	91.196.223.167	Available
+uk2529	91.196.223.175	Available
+uk2531	91.196.223.201	Available
+uk2532	91.196.223.211	Available
+uk2533	91.196.223.212	Available
+uk2535	91.196.223.233	Available
+uk2536	91.196.223.251	Available
+uk2537	91.196.223.226	Available
+uk2538	n/a	Skipped (VPN connection failed)
+uk1610	n/a	Skipped (VPN connection failed)
+uk1612	n/a	Skipped (Dedicated IP required)
+uk1613	n/a	Skipped (Dedicated IP required)
+uk1614	n/a	Skipped (Dedicated IP required)
+uk1615	n/a	Skipped (Dedicated IP required)
+uk1616	n/a	Skipped (Dedicated IP required)
+uk1617	n/a	Skipped (Dedicated IP required)
+uk1618	n/a	Skipped (Dedicated IP required)
+uk1619	n/a	Skipped (Dedicated IP required)
+uk2540	n/a	Skipped (VPN connection failed)
+uk1620	n/a	Skipped (Dedicated IP required)
+uk1621	n/a	Skipped (Dedicated IP required)
+uk1622	n/a	Skipped (Dedicated IP required)
+uk1623	n/a	Skipped (Dedicated IP required)
+uk2541	n/a	Skipped (VPN connection failed)
+uk2542	194.156.224.134	Available
+uk2543	n/a	Skipped (VPN connection failed)
+uk2544	194.156.224.168	Available
+uk2545	194.156.224.184	Available
+uk2548	n/a	Skipped (VPN connection failed)
+uk2549	194.156.224.227	Available
+uk1624	n/a	Skipped (Dedicated IP required)
+uk1625	n/a	Skipped (Dedicated IP required)
+uk1626	n/a	Skipped (Dedicated IP required)
+uk1627	n/a	Skipped (Dedicated IP required)
+uk1628	n/a	Skipped (Dedicated IP required)
+uk1629	n/a	Skipped (Dedicated IP required)
+uk1630	n/a	Skipped (Dedicated IP required)
+uk1631	n/a	Skipped (Dedicated IP required)
+uk1632	n/a	Skipped (Dedicated IP required)
+uk1633	n/a	Skipped (Dedicated IP required)
+uk2551	193.160.247.247	Available
+uk2552	193.203.14.163	Available
+uk2553	193.203.14.196	Available
+uk2554	193.203.14.210	Available
+uk1634	n/a	Skipped (Dedicated IP required)
+uk1635	n/a	Skipped (Dedicated IP required)
+uk1636	n/a	Skipped (Dedicated IP required)
+uk1637	n/a	Skipped (Dedicated IP required)
+uk1638	n/a	Skipped (Dedicated IP required)
+uk1639	n/a	Skipped (Dedicated IP required)
+uk1640	n/a	Skipped (Dedicated IP required)
+uk1641	n/a	Skipped (Dedicated IP required)
+uk1642	n/a	Skipped (Dedicated IP required)
+uk1643	n/a	Skipped (Dedicated IP required)
+uk1644	n/a	Skipped (Dedicated IP required)
+uk1645	n/a	Skipped (Dedicated IP required)
+uk1646	n/a	Skipped (Dedicated IP required)
+uk1647	n/a	Skipped (Dedicated IP required)
+uk1648	n/a	Skipped (Dedicated IP required)
+uk1649	n/a	Skipped (Dedicated IP required)
+uk1650	n/a	Skipped (Dedicated IP required)
+uk1651	n/a	Skipped (Dedicated IP required)
+uk1652	n/a	Skipped (Dedicated IP required)
+uk1653	n/a	Skipped (Dedicated IP required)
+uk1654	n/a	Skipped (Dedicated IP required)
+uk1655	n/a	Skipped (Dedicated IP required)
+uk1656	n/a	Skipped (Dedicated IP required)
+uk1657	n/a	Skipped (Dedicated IP required)
+uk1658	n/a	Skipped (Dedicated IP required)
+uk1659	n/a	Skipped (Dedicated IP required)
+uk1660	n/a	Skipped (Dedicated IP required)
+uk1661	n/a	Skipped (Dedicated IP required)
+uk1662	n/a	Skipped (Dedicated IP required)
+uk1663	n/a	Skipped (Dedicated IP required)
+uk1664	n/a	Skipped (Dedicated IP required)
+uk1665	n/a	Skipped (Dedicated IP required)
+uk1668	155.133.17.48	Available
+uk1670	155.133.17.69	Available
+uk1671	n/a	Skipped (VPN connection failed)
+uk1672	155.133.17.87	Available
+uk1673	n/a	Skipped (VPN connection failed)
+uk1674	n/a	Skipped (VPN connection failed)
+uk1675	155.133.17.128	Available
+uk1676	n/a	Skipped (VPN connection failed)
+uk1677	155.133.17.143	Available
+uk1678	155.133.17.161	Available
+uk1679	155.133.17.172	Available
+uk1680	n/a	Skipped (VPN connection failed)
+uk1681	n/a	Skipped (VPN connection failed)
+uk1682	155.133.17.202	Available
+uk1683	n/a	Skipped (VPN connection failed)
+uk1684	155.133.17.218	Available
+uk1685	n/a	Skipped (VPN connection failed)
+uk1686	155.133.17.240	Available
+uk1687	155.133.17.246	Available
+uk1688	89.35.30.160	Available
+uk1708	n/a	Skipped (Dedicated IP required)
+uk1709	n/a	Skipped (Dedicated IP required)
+uk1710	n/a	Skipped (Dedicated IP required)
+uk1711	n/a	Skipped (Dedicated IP required)
+uk1712	n/a	Skipped (Dedicated IP required)
+uk1713	n/a	Skipped (Dedicated IP required)
+uk1714	n/a	Skipped (Dedicated IP required)
+uk1715	n/a	Skipped (Dedicated IP required)
+uk1689	152.89.207.51	Available
+uk1690	n/a	Skipped (VPN connection failed)
+uk1691	152.89.207.86	Available
+uk1692	n/a	Skipped (VPN connection failed)
+uk1693	152.89.207.126	Available
+uk1694	155.133.20.12	Available
+uk1695	155.133.20.32	Available
+uk1696	n/a	Skipped (VPN connection failed)
+uk1697	n/a	Skipped (VPN connection failed)
+uk1698	155.133.20.77	Available
+uk1699	155.133.20.92	Available
+uk1700	n/a	Skipped (VPN connection failed)
+uk1701	n/a	Skipped (VPN connection failed)
+uk1702	155.133.20.146	Available
+uk1703	155.133.20.168	Available
+uk1704	155.133.20.176	Available
+uk1705	n/a	Skipped (VPN connection failed)
+uk1706	155.133.20.221	Available
+uk1707	n/a	Skipped (VPN connection failed)
+uk1716	155.133.20.250	Available
+uk1717	n/a	Skipped (Dedicated IP required)
+uk1718	n/a	Skipped (Dedicated IP required)
+uk1719	n/a	Skipped (Dedicated IP required)
+uk1720	n/a	Skipped (Dedicated IP required)
+uk1721	n/a	Skipped (Dedicated IP required)
+uk1722	n/a	Skipped (Dedicated IP required)
+uk1723	n/a	Skipped (Dedicated IP required)
+uk1724	n/a	Skipped (Dedicated IP required)
+uk1725	n/a	Skipped (Dedicated IP required)
+uk1726	n/a	Skipped (Dedicated IP required)
+uk1727	n/a	Skipped (Dedicated IP required)
+uk1728	n/a	Skipped (Dedicated IP required)
+uk1729	n/a	Skipped (Dedicated IP required)
+uk1730	n/a	Skipped (Dedicated IP required)
+uk1731	n/a	Skipped (Dedicated IP required)
+uk1732	77.116.82.36	Blocked
+uk1734	194.35.232.37	Available
+uk1735	194.35.232.55	Available
+uk1736	194.35.232.67	Available
+uk1737	n/a	Skipped (VPN connection failed)
+uk1738	194.35.232.89	Available
+uk1739	194.35.232.100	Available
+uk1740	n/a	Skipped (VPN connection failed)
+uk1741	n/a	Skipped (VPN connection failed)
+uk1742	194.35.232.129	Available
+uk1744	194.35.232.156	Available
+uk1745	194.35.232.167	Available
+uk1746	n/a	Skipped (VPN connection failed)
+uk1747	194.35.232.189	Available
+uk1748	n/a	Skipped (VPN connection failed)
+uk1749	194.35.232.210	Available
+uk1750	n/a	Skipped (VPN connection failed)
+uk1751	n/a	Skipped (VPN connection failed)
+uk1752	194.35.232.237	Available
+uk1753	n/a	Skipped (VPN connection failed)
+uk1754	152.89.207.144	Available
+uk1755	152.89.207.246	Available
+uk1756	103.219.20.16	Available
+uk1757	103.219.20.27	Available
+uk1758	n/a	Skipped (VPN connection failed)
+uk1759	103.219.20.64	Available
+uk1760	n/a	Skipped (VPN connection failed)
+uk1761	103.219.20.97	Available
+uk1762	103.219.20.120	Available
+uk1763	152.89.207.162	Available
+uk1764	n/a	Skipped (VPN connection failed)
+uk1765	103.219.20.160	Available
+uk1766	n/a	Skipped (VPN connection failed)
+uk1767	n/a	Skipped (VPN connection failed)
+uk1768	103.219.20.215	Available
+uk1769	n/a	Skipped (VPN connection failed)
+uk1770	n/a	Skipped (VPN connection failed)
+uk1771	103.214.45.10	Available
+uk1772	103.214.45.28	Available
+uk1773	103.214.45.38	Available
+uk1774	103.214.45.57	Available
+uk1775	n/a	Skipped (VPN connection failed)
+uk1776	103.214.45.104	Available
+uk1777	n/a	Skipped (VPN connection failed)
+uk1778	103.214.45.121	Available
+uk1779	103.214.45.143	Available
+uk1780	103.214.45.170	Available
+uk1781	103.214.45.175	Available
+uk1782	n/a	Skipped (VPN connection failed)
+uk1783	n/a	Skipped (VPN connection failed)
+uk1786	103.214.45.237	Available
+uk1787	n/a	Skipped (VPN connection failed)
+uk1788	n/a	Skipped (VPN connection failed)
+uk2557	103.214.46.10	Available
+uk2558	103.214.46.20	Available
+uk2559	103.214.46.29	Available
+uk2561	n/a	Skipped (VPN connection failed)
+uk2562	103.214.46.66	Available
+uk2563	n/a	Skipped (VPN connection failed)
+uk2564	103.214.46.96	Available
+uk2565	103.214.46.101	Available
+uk2566	n/a	Skipped (VPN connection failed)
+uk2567	103.214.46.127	Available
+uk2568	103.214.46.143	Available
+uk2569	n/a	Skipped (VPN connection failed)
+uk2570	103.214.46.161	Available
+uk2571	n/a	Skipped (VPN connection failed)
+uk2572	103.214.46.193	Available
+uk2573	n/a	Skipped (VPN connection failed)
+uk2574	n/a	Skipped (VPN connection failed)
+uk2575	103.214.46.224	Available
+uk2576	n/a	Skipped (VPN connection failed)
+uk2577	103.214.46.250	Available
+uk2578	103.214.47.7	Available
+uk2579	103.214.47.23	Available
+uk2580	n/a	Skipped (VPN connection failed)
+uk2581	103.214.47.39	Available
+uk2582	103.214.47.56	Available
+uk2583	n/a	Skipped (VPN connection failed)
+uk2584	103.214.47.85	Available
+uk2585	103.214.47.88	Available
+uk2586	n/a	Skipped (VPN connection failed)
+uk2587	103.214.47.116	Available
+uk2588	n/a	Skipped (VPN connection failed)
+uk2589	n/a	Skipped (VPN connection failed)
+uk2590	103.214.47.156	Available
+uk2591	n/a	Skipped (VPN connection failed)
+uk2592	103.214.47.180	Available
+uk2593	n/a	Skipped (VPN connection failed)
+uk2594	103.214.47.202	Available
+uk2595	103.214.47.215	Available
+uk2596	103.214.47.224	Available
+uk2597	103.214.47.236	Available
+uk2598	n/a	Skipped (VPN connection failed)
+uk2599	n/a	Skipped (VPN connection failed)
+uk2600	194.35.235.19	Available
+uk2601	194.35.235.223	Available
+uk2602	194.35.235.46	Available
+uk2603	n/a	Skipped (VPN connection failed)
+uk2604	194.35.235.70	Available
+uk2605	n/a	Skipped (VPN connection failed)
+uk2606	n/a	Skipped (VPN connection failed)
+uk2607	194.35.235.102	Available
+uk2609	n/a	Skipped (VPN connection failed)
+uk2610	194.35.235.241	Available
+uk2611	n/a	Skipped (VPN connection failed)
+uk2612	194.35.235.245	Available
+uk2613	194.35.235.172	Available
+uk2614	194.35.235.191	Available
+uk2615	194.35.235.195	Available
+uk2616	n/a	Skipped (VPN connection failed)
+uk2617	n/a	Skipped (VPN connection failed)
+uk2618	n/a	Skipped (VPN connection failed)
+uk2619	185.137.39.66	Available
+uk2620	n/a	Skipped (VPN connection failed)
+uk2621	185.137.39.89	Available
+uk2622	185.137.39.105	Available
+uk2623	n/a	Skipped (VPN connection failed)
+uk2624	n/a	Skipped (VPN connection failed)
+uk2625	185.137.39.133	Available
+uk2626	185.137.39.146	Available
+uk2627	185.137.39.161	Available
+uk2628	n/a	Skipped (VPN connection failed)
+uk2629	n/a	Skipped (VPN connection failed)
+uk2630	n/a	Skipped (VPN connection failed)
+uk2631	185.137.39.200	Available
+uk2632	185.137.39.33	Available
+uk2633	185.137.39.218	Available
+uk2634	185.137.39.231	Available
+uk2635	n/a	Skipped (VPN connection failed)
+uk2636	185.137.39.41	Available
+uk2637	194.88.96.43	Available
+uk2638	n/a	Skipped (VPN connection failed)
+uk2639	194.88.96.74	Available
+uk2640	n/a	Skipped (VPN connection failed)
+uk2641	n/a	Skipped (VPN connection failed)
+uk2642	194.88.96.103	Available
+uk2643	194.88.96.109	Available
+uk2644	n/a	Skipped (VPN connection failed)
+uk2645	194.88.96.133	Available
+uk2646	n/a	Skipped (VPN connection failed)
+uk2647	n/a	Skipped (VPN connection failed)
+uk2648	194.88.96.168	Available
+uk2649	194.88.96.179	Available
+uk2650	194.88.96.29	Available
+uk2651	194.88.96.194	Available
+uk2652	194.88.96.206	Available
+uk2653	n/a	Skipped (VPN connection failed)
+uk2654	194.88.96.232	Available
+uk2655	n/a	Skipped (VPN connection failed)
+uk2656	194.88.96.248	Available
+uk2657	n/a	Skipped (VPN connection failed)
+uk2658	n/a	Skipped (VPN connection failed)
+uk2659	45.150.172.27	Available
+uk2660	n/a	Skipped (VPN connection failed)
+uk2661	45.150.172.51	Available
+uk2662	45.150.172.71	Available
+uk2663	n/a	Skipped (VPN connection failed)
+uk2664	n/a	Skipped (VPN connection failed)
+uk2665	45.150.172.106	Available
+uk2666	45.150.172.118	Available
+uk2667	45.150.172.123	Available
+uk2668	45.150.172.136	Available
+uk2669	45.150.172.150	Available
+uk2670	n/a	Skipped (VPN connection failed)
+uk2671	45.150.172.175	Available
+uk2672	n/a	Skipped (VPN connection failed)
+uk2673	45.150.172.202	Available
+uk2674	n/a	Skipped (VPN connection failed)
+uk2675	n/a	Skipped (VPN connection failed)
+uk2676	45.150.172.240	Available
+uk2677	n/a	Skipped (VPN connection failed)
+uk2678	86.62.30.24	Available
+uk2679	86.62.30.33	Available
+uk2680	n/a	Skipped (VPN connection failed)
+uk2681	n/a	Skipped (VPN connection failed)
+uk2682	86.62.30.70	Available
+uk2683	86.62.30.80	Available
+uk2684	86.62.30.94	Available
+uk2685	86.62.30.103	Available
+uk2686	86.62.30.111	Available
+uk2687	n/a	Skipped (VPN connection failed)
+uk2688	86.62.30.135	Available
+uk2689	n/a	Skipped (VPN connection failed)
+uk2690	86.62.30.160	Available
+uk2691	n/a	Skipped (VPN connection failed)
+uk2692	n/a	Skipped (VPN connection failed)
+uk2693	86.62.30.205	Available
+uk2694	n/a	Skipped (VPN connection failed)
+uk2695	86.62.30.222	Available
+uk2696	86.62.30.232	Available
+uk2697	n/a	Skipped (VPN connection failed)
+uk2698	n/a	Skipped (VPN connection failed)
+uk2699	46.183.109.32	Available
+uk2700	46.183.109.51	Available
+uk2701	46.183.109.67	Available
+uk2702	46.183.109.80	Available
+uk2703	46.183.109.95	Available
+uk2704	n/a	Skipped (VPN connection failed)
+uk2705	n/a	Skipped (VPN connection failed)
+uk2706	46.183.109.140	Available
+uk2707	46.183.109.149	Available
+uk2708	n/a	Skipped (VPN connection failed)
+uk2709	n/a	Skipped (VPN connection failed)
+uk2710	n/a	Skipped (VPN connection failed)
+uk2711	46.183.109.210	Available
+uk2712	n/a	Skipped (VPN connection failed)
+uk2713	46.183.109.239	Available
+uk2714	46.183.109.248	Available
+uk2715	n/a	Skipped (VPN connection failed)
+uk2716	46.183.110.29	Available
+uk2717	46.183.110.33	Available
+uk2718	46.183.110.45	Available
+uk2719	46.183.110.68	Available
+uk2720	46.183.110.75	Available
+uk2721	n/a	Skipped (VPN connection failed)
+uk2722	46.183.110.104	Available
+uk2723	46.183.110.120	Available
+uk2724	n/a	Skipped (VPN connection failed)
+uk2725	n/a	Skipped (VPN connection failed)
+uk2726	n/a	Skipped (VPN connection failed)
+uk2727	n/a	Skipped (VPN connection failed)
+uk2728	46.183.110.185	Available
+uk2729	n/a	Skipped (VPN connection failed)
+uk2730	46.183.110.217	Available
+uk2731	46.183.110.231	Available
+uk2732	n/a	Skipped (VPN connection failed)
+uk2733	46.183.111.5	Available
+uk2734	46.183.111.23	Available
+uk2735	46.183.111.31	Available
+uk2736	46.183.111.50	Available
+uk2737	46.183.111.64	Available
+uk2738	n/a	Skipped (VPN connection failed)
+uk2739	46.183.111.87	Available
+uk2740	46.183.111.106	Available
+uk2741	n/a	Skipped (VPN connection failed)
+uk2742	n/a	Skipped (VPN connection failed)
+uk2743	n/a	Skipped (VPN connection failed)
+uk2744	n/a	Skipped (VPN connection failed)
+uk2745	46.183.111.191	Available
+uk2746	n/a	Skipped (VPN connection failed)
+uk2747	46.183.111.236	Available
+uk2748	46.183.111.204	Available
+uk-se1	130.195.218.110	Blocked
+uk-se2	n/a	Skipped (VPN connection failed)
+uk-nl14	86.106.20.118	Blocked
+uk-nl15	86.106.20.126	Blocked
+uk-nl16	185.232.20.22	Blocked
+uk-nl17	185.232.20.30	Blocked
+uk-nl18	185.232.20.38	Blocked
+uk-nl19	n/a	Skipped (VPN connection failed)
+uk2749	93.114.129.181	Available
+uk2750	n/a	Skipped (Dedicated IP required)
+uk2751	n/a	Skipped (Dedicated IP required)
+uk2752	n/a	Skipped (Dedicated IP required)
+uk2753	n/a	Skipped (Dedicated IP required)
+uk2754	n/a	Skipped (Dedicated IP required)
+uk2755	n/a	Skipped (Dedicated IP required)
+uk2756	n/a	Skipped (Dedicated IP required)
+uk2757	n/a	Skipped (Dedicated IP required)
+uk-se4	n/a	Skipped (VPN connection failed)
+uk-nl20	n/a	Skipped (VPN connection failed)
+uk-nl21	n/a	Skipped (VPN connection failed)
+uk-nl22	n/a	Skipped (VPN connection failed)
+uk-fr20	185.104.185.38	Blocked
+uk-nl23	185.232.20.70	Blocked
