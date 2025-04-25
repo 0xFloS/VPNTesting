@@ -1,0 +1,24 @@
+uswd	United States (US)	USA - Washington DC
+usnj1		USA - New Jersey - 1
+usnj3		USA - New Jersey - 3
+usny		USA - New York
+usat		USA - Atlanta
+usta1		USA - Tampa - 1
+usmi2		USA - Miami - 2
+usmi		USA - Miami
+usda		USA - Dallas
+usho		USA - Houston
+usde		USA - Denver
+usch		USA - Chicago
+uslp		USA - Lincoln Park
+usal		USA - Albuquerque
+ussf		USA - San Francisco
+usla3		USA - Los Angeles - 3
+usla2		USA - Los Angeles - 2
+usse		USA - Seattle
+ussl1		USA - Salt Lake City
+usph		USA - Phoenix
+usnj2		USA - New Jersey - 2
+usla1		USA - Los Angeles - 1
+usla5		USA - Los Angeles - 5
+ussm		USA - Santa Monica

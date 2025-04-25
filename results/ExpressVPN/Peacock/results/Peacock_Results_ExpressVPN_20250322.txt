@@ -1,0 +1,25 @@
+Location	Server Code	External IP	Peacock Result
+USA - Washington DC	uswd	172.98.32.115	Available
+USA - New Jersey - 1	usnj1	173.239.214.60	Available
+USA - New Jersey - 3	usnj3	173.239.240.157	Available
+USA - New York	usny	63.135.161.5	Available
+USA - Atlanta	usat	91.193.232.252	Available
+USA - Tampa - 1	usta1	188.213.202.160	Available
+USA - Miami - 2	usmi2	23.94.155.105	Available
+USA - Miami	usmi	104.234.19.49	Available
+USA - Dallas	usda	136.144.43.73	Available
+USA - Houston	usho	142.111.152.39	Available
+USA - Denver	usde	185.238.231.196	Available
+USA - Chicago	usch	85.237.194.94	Available
+USA - Lincoln Park	uslp	64.64.116.22	Available
+USA - Albuquerque	usal	98.159.33.102	Available
+USA - San Francisco	ussf	45.131.194.236	Available
+USA - Los Angeles - 3	usla3	185.223.152.212	Available
+USA - Los Angeles - 2	usla2	98.159.37.70	Available
+USA - Seattle	usse	193.37.33.165	Available
+USA - Salt Lake City	ussl1	89.116.182.40	Available
+USA - Phoenix	usph	216.24.212.208	Available
+USA - New Jersey - 2	usnj2	192.253.209.24	Available
+USA - Los Angeles - 1	usla1	136.144.33.40	Available
+USA - Los Angeles - 5	usla5	104.234.227.24	Available
+USA - Santa Monica	ussm	104.234.225.16	Available
