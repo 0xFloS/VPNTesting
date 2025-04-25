@@ -1,0 +1,7 @@
+Location	Server Code	BBC iPlayer Ergebnis
+UK - Tottenham	ukto	Available
+UK - East London	ukel	Available
+UK - Docklands	ukdo	Available
+UK - London	uklo	Available
+UK - Midlands	ukmi	Available
+UK - Wembley	ukwe	Available

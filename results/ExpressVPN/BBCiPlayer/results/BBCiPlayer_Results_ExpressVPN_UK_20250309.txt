@@ -1,0 +1,7 @@
+Location	Server Code	External IP	BBC iPlayer Ergebnis
+UK - Tottenham	ukto	185.92.25.101	Available
+UK - East London	ukel	185.192.71.167	Available
+UK - Docklands	ukdo	185.198.243.131	Available
+UK - London	uklo	194.32.120.44	Available
+UK - Midlands	ukmi	45.86.203.212	Available
+UK - Wembley	ukwe	185.199.157.28	Available

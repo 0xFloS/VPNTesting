@@ -1,0 +1,6 @@
+ukto	United Kingdom (GB)	UK - Tottenham
+ukel		UK - East London
+ukdo		UK - Docklands
+uklo		UK - London
+ukmi		UK - Midlands
+ukwe		UK - Wembley
